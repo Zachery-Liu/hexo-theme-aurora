@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/Zachery-Liu/hexo-theme-aurora/compare/v1.0.0...v1.0.1) (2023-07-24)
+
+
+### Bug Fixes
+
+* auto build ([adc45b3](https://github.com/Zachery-Liu/hexo-theme-aurora/commit/adc45b35bc5647fd6036e9fe5e2b335b55405d52))
+* node version fix ([b972a3e](https://github.com/Zachery-Liu/hexo-theme-aurora/commit/b972a3e3ab012932a8c91a89593b26588f14ccd6))
+
 # 1.0.0 (2023-07-24)
 
 
